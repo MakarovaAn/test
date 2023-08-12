@@ -1,3 +1,1 @@
-# Hello? world!
-
-i study in Netology
+# Hello? world
